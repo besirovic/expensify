@@ -1,0 +1,6 @@
+.env.development
+.env.test
+.vscode
+node_modules
+yarn.lock
+public/dist
