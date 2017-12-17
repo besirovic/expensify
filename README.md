@@ -66,4 +66,4 @@ After setting up Firebase project, jump to terminal, navigate to project root fo
 ```yarn run dev-server```. After that visit ```http://localhost:8080/dashboard```, and start using app.
 
 ### TEST
-All test files are stored in src/tests folder. To run test jump to your terminal and run ```npm test``` or ```yarn test```.
+All test files are stored in src/tests folder. To run tests jump to your terminal and run ```npm test``` or ```yarn test```.
