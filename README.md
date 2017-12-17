@@ -67,3 +67,7 @@ After setting up Firebase project, jump to terminal, navigate to project root fo
 
 ### TEST
 All test files are stored in src/tests folder. To run tests jump to your terminal and run ```npm test``` or ```yarn test```.
+
+## ToDo
+* Finish integration with Firebase authentication
+* Style an app
