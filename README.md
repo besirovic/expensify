@@ -13,7 +13,7 @@ Run ```npm install``` or ```yarn install```
 
 ### Create Firebase development project
 * Go to [Firebase](https://firebase.google.com/)
-* Create new project and name it ```some_awesome_name-**development**```
+* Create new project and name it ```some_awesome_name-development```
 * Go to Database section and inside ```Rules``` tab add following code:
 ```
 {
@@ -41,7 +41,7 @@ FIREBASE_MESSAGING_SENDER_ID=___YOUR_FIREBASE_MESSAGING_SENDER_ID___
 
 ### Create Firebase testing project
 * Go to [Firebase](https://firebase.google.com/)
-* Create new project and name it ```some_awesome_name-**test**```
+* Create new project and name it ```some_awesome_name-test```
 * Go to Database section and inside ```Rules``` tab add following code:
 ```
 {
